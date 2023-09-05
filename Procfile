@@ -1,0 +1,1 @@
+web: java -jar target/sant-0.0.1-SNAPSHOT.jar
